@@ -15,6 +15,8 @@ The goal of this project is to create an AI model based on YOLOV7 for real-time 
 1. https://github.com/WongKinYiu/yolov7
 2. https://www.kaggle.com/datasets/antoreepjana/military-tanks-dataset-images
 
+**Others**
+If you are interested in weights or configuration contact me: steglinski98@gmail.com
 
 # Change-log
 
