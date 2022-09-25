@@ -25,6 +25,7 @@ The goal of this project is to create an AI model based on YOLOV7 for real-time 
 | Learning set size | 100 |
 | Test set size |  15|
 | Precision |   0.754|
+![enter image description here](https://raw.githubusercontent.com/Steglinsky/yolov7-tank-detector/main/preview/exp2.jpg)
 ---
 ### Experiment #1
 | Note | Test run after environment configuration |
